@@ -1,6 +1,7 @@
 # PanomNom.js
 
 Panorama fetching tools for JavaScript
+https://6410685157.github.io/PanomNom.js/examples/basic/sv-url.html
 
 PanomNom.js is a spiritual succesor to [GSVPano.js](https://github.com/spite/GSVPano.js/). This new version is updated to use ES6 features like modules and async/await.
 
